@@ -1,0 +1,10 @@
+.service-container {
+    border: 2px solid gainsboro;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 100%;
+}
